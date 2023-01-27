@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/leap/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/leap/build" />
+      <excludeFolder url="file://$MODULE_DIR$/leap/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/word-count/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/word-count/build" />
+      <excludeFolder url="file://$MODULE_DIR$/word-count/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/difference-of-squares/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/difference-of-squares/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/difference-of-squares/build" />
+      <excludeFolder url="file://$MODULE_DIR$/scrabble-score/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/scrabble-score/build" />
+      <excludeFolder url="file://$MODULE_DIR$/scrabble-score/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/high-scores/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/high-scores/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/high-scores/build" />
+      <excludeFolder url="file://$MODULE_DIR$/armstrong-numbers/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/armstrong-numbers/build" />
+      <excludeFolder url="file://$MODULE_DIR$/armstrong-numbers/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/bob/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/bob/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/bob/build" />
+      <excludeFolder url="file://$MODULE_DIR$/space-age/build" />
+      <excludeFolder url="file://$MODULE_DIR$/space-age/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/space-age/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/high-scores/.exercism" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Dart SDK" level="project" />
+  </component>
+</module>
