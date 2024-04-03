@@ -1,7 +1,5 @@
 .dart_tool/
 .exercism/
-/dart/hello-world/
-/.idea/
-/dart/two-fer/
+.idea/
 /.run/
 .DS_Store
